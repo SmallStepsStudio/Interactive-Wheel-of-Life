@@ -1,6 +1,5 @@
 <!-- SPDX-FileCopyrightText: Copyright (c) 2026 Madison Nicole Goodwin https://github.com/NicoleDev021 -->  
 <!-- SPDX-FileCopyrightText: Copyright (c) 2026 Small Steps Studio LLC smallsteps.studio -->  
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->  
 
 ![Wheel of Life filled in](https://raw.githubusercontent.com/SmallStepsStudio/Interactive-Wheel-of-Life/main/docs/wheel-of-life-filled.png)
 
