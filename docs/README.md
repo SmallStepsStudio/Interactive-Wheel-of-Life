@@ -83,7 +83,7 @@ If you contribute, you agree that your contributions will be licensed under thes
 
 ## How This Was Built
 
-This tool was built collaboratively with Claude (Anthropic), through an extended, iterative conversation — not a single prompt. Roughly, the process looked like:
+This tool was built collaboratively with Claude (Anthropic) Sonnet 5 Medium Effort with Thinking, through an extended, iterative conversation — not a single prompt. Roughly, the process looked like:
 
 - Starting from a rough concept (a Wheel of Life check-in, inspired by a specific video) and building it up feature by feature: the wheel itself, curved labels, category editing, the color system, save/print, and accessibility — each added and refined in its own back-and-forth.
 - A real amount of trial and error, especially on the curved-text geometry — a few rounds landed on a fix that solved one symptom while introducing another, which got caught and corrected through actual testing (verifying the math directly) rather than assuming it was right.
