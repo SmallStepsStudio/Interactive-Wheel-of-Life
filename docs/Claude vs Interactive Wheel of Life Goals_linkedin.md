@@ -1,6 +1,8 @@
 <!-- SPDX-FileCopyrightText: Copyright (c) 2026 Madison Nicole Goodwin https://github.com/NicoleDev021 -->  
 <!-- SPDX-FileCopyrightText: Copyright (c) 2026 Small Steps Studio LLC smallsteps.studio -->  
 
+https://www.linkedin.com/pulse/claude-vs-interactive-wheel-life-goals-madison-nicole-goodwin-nhblc/
+
 ![Wheel of Life filled in](https://raw.githubusercontent.com/SmallStepsStudio/Interactive-Wheel-of-Life/main/docs/wheel-of-life-filled.png)
 
 # Claude vs Interactive Wheel of Life Goals
